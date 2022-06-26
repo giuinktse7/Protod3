@@ -6,13 +6,9 @@ This code has successfully been used to extract `.proto` files from a binary tha
 
 However, **it is untested on proto3**.
 
----
-
 > Protod - Protobuf's metadata extractor
 >
 > (c) 2012, Sysdream (d.cauquil@sysdream.com)
-
----
 
 Changes:
 
