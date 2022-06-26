@@ -38,7 +38,6 @@ from google.protobuf.descriptor_pb2 import (DescriptorProto,
                                             FileDescriptorProto)
 from google.protobuf.message import DecodeError
 
-from util import check_files
 
 ###########
 # helpers
