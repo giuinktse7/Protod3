@@ -1,0 +1,5 @@
+.vscode
+**/*.protoc
+**/*.proto
+**/*.pyc
+**/*.exe
